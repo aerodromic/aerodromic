@@ -48,9 +48,7 @@
 
 [![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aerodromic&show_icons=true)](https://github.com/aerodromic)
 
-<br/>
-
-<br/>
+<br/><br/>
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
@@ -58,38 +56,23 @@
 
 <br><br>
 
-
-
 <hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
 
-
-
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
-
-
-
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=aerodromic.aerodromic)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
 
 <hr>
 
-
-
+[website]: https://aerodromic.github.io/
+[linkedin]: https://www.linkedin.com/in/joello/
+[instagram]: https://www.instagram.com/jouste_/
