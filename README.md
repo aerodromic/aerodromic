@@ -1,6 +1,5 @@
-<h1> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> Joel </h1>
-
-<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h1> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> aerodromic </h1>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=2152bpf2j53hr2l4hj3ll7zyi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=2152bpf2j53hr2l4hj3ll7zyi&cover_image=true&theme=default&bar_color_cover=true)]]
 
 <h3> ❤️‍🔥 About Me </h3>
 
@@ -41,3 +40,4 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
 <hr>
+<img align='middle' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
