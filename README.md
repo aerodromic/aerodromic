@@ -61,7 +61,7 @@
 <br>
 
 <h3>You can find in me in the web 🌍</h3>
-![LinkedIn][<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white">][linkedin]
+![LinkedIn][linkedin]<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white">
 
 <br/>
 
