@@ -61,7 +61,7 @@
 <br>
 
 <h3>You can find in me in the web 🌍</h3>
-(http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
+<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white">[linkedin]
 
 <br/>
 
@@ -69,7 +69,7 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=aerodromic.aerodromic)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-[Portfolio]: https://aerodromic.github.io/
-[LinkedIn]: https://www.linkedin.com/in/joello/
-[Mail]: joello@u.nus.edu
-[Instagram]: https://www.instagram.com/jouste_/
+[website]: https://aerodromic.github.io/
+[linkedin]: https://www.linkedin.com/in/joello/
+[mail]: joello@u.nus.edu
+[instagram]: https://www.instagram.com/jouste_/
