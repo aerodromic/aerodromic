@@ -1,4 +1,4 @@
-<h2> 👋 I'm Joel <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"></h2>
+<h2> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"> I'm Joel </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
