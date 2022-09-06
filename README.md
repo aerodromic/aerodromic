@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> aerodromic </h1>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=2152bpf2j53hr2l4hj3ll7zyi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=2152bpf2j53hr2l4hj3ll7zyi&cover_image=true&theme=default&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2152bpf2j53hr2l4hj3ll7zyi&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2152bpf2j53hr2l4hj3ll7zyi&redirect=true)
 ### ❤️‍🔥 About Me
 
 
