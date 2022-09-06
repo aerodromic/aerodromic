@@ -1,4 +1,4 @@
-### Hey there! 👋<h2> I'm Joel</h2>
+<h2> 👋 I'm Joel </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -61,7 +61,7 @@
 <br>
 
 <h3>You can find in me in the web 🌍</h3>
-<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white">[linkedin]
+![LinkedIn][<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white">][linkedin]
 
 <br/>
 
