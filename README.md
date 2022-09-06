@@ -1,4 +1,4 @@
-<h2> 👋 I'm Joel </h2>
+<h2> 👋 I'm Joel <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -61,13 +61,13 @@
 <br>
 
 <h3>You can find in me in the web 🌍</h3>
-![LinkedIn][linkedin]<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white">
+![LinkedIn]<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white">[linkedin]
 
 <br/>
 
 <hr>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=aerodromic.aerodromic)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=aerodromic.aerodromic)
 
 [website]: https://aerodromic.github.io/
 [linkedin]: https://www.linkedin.com/in/joello/
