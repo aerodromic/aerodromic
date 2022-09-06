@@ -2,7 +2,7 @@
 
 ### ❤️‍🔥 About Me
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2152bpf2j53hr2l4hj3ll7zyi&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2152bpf2j53hr2l4hj3ll7zyi&redirect=true)
+<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -31,4 +31,5 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
 <hr>
-<img align='middle' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2152bpf2j53hr2l4hj3ll7zyi&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2152bpf2j53hr2l4hj3ll7zyi&redirect=true)
