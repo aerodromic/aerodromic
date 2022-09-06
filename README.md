@@ -1,6 +1,8 @@
-# <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> aerodromic </h1>
+# <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> aerodromic
 
 ### ❤️‍🔥 About Me
+
+<img align="right" src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
