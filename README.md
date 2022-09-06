@@ -28,7 +28,7 @@
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 -->
 
-### 🛠 To Learn
+### 🎯 To Learn
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
