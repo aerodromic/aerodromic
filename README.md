@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Industrial and Systems Engineering at NUS and coding stuffs.
+- 🎓 &nbsp; Studying Industrial & Systems Engineering and Computer Science (2nd Maj) at NUS.
 
 - 🌱 &nbsp; Learning about Software Development Methodologies, Systems Design.
 
