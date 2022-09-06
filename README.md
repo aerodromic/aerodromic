@@ -2,7 +2,7 @@
 
 ### ❤️‍🔥 About Me
 
-<img align="right" src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media">
+<img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
