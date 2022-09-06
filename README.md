@@ -20,11 +20,13 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
+- 🖥 &nbsp; Lightroom | Canva | Figma
+
+<!--
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Lightroom | Canva | Figma
+-->
 
 ### 🛠 To Learn
 
