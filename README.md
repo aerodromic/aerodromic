@@ -4,19 +4,17 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
 - 🎓 &nbsp; Studying Industrial & Systems Engineering and Computer Science (2nd Maj) at NUS.
 
 - 🌱 &nbsp; Learning about Software Development Methodologies, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development and photography as hobbies/side hustles.
 
 
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Java | Go | MySQL
+- 💻 &nbsp; Python | Java | Go | VBA
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
