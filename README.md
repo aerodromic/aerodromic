@@ -30,7 +30,7 @@
 
 ### 🎯 To Learn
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker | Flask
 
 ### 🎧 Listening to
 
