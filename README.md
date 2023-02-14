@@ -14,7 +14,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Java | VBA | Machine Learning
+- 💻 &nbsp; Python | Java | VBA | PyTorch
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
