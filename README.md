@@ -30,7 +30,7 @@
 
 ### 🔗 Connect with Me
 <div id="badges">
-  <a href="joello">
+  <a href="[joello](https://www.linkedin.com/in/joello/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
