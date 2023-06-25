@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://joelloliangze.com/">
-    <img src="[https://img.shields.io/badge/website-blue?style=for-the-badge&logo=About.me&logoColor=white]" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/website-black?style=for-the-badge&logo=Hugo&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
