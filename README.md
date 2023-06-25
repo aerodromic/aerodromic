@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> aerodromic
+# [<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25">](https://joelloliangze.com/) aerodromic
 
 ### ❤️‍🔥 About Me
 
@@ -33,8 +33,8 @@
   <a href="https://www.linkedin.com/in/joello/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://aerodromic.github.io/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  <a href="https://joelloliangze.com/">
+    <img src="[https://img.shields.io/badge/website-007BFF?style=for-the-badge&logo=About.me&logoColor=white]" alt="Website Badge"/>
   </a>
 </div>
 
