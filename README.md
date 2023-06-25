@@ -2,7 +2,7 @@
 
 ### ❤️‍🔥 About Me
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+[<img align="right" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">](https://joelloliangze.com/)
 
 - 🎓 &nbsp; Studying BEng(ISE)(Hons); DA(2nd Maj); CS(Minor).
 
