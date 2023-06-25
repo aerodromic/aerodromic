@@ -1,4 +1,4 @@
-# [<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25">](https://joelloliangze.com/) aerodromic
+# aerodromic
 
 ### ❤️‍🔥 About Me
 
@@ -26,7 +26,7 @@
 
 ### 🎯 To Learn
 
-- 🔧 &nbsp; AWS | Docker | Flask
+- [<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25">](https://joelloliangze.com/) &nbsp; AWS | Docker | Flask
 
 ### 🔗 Connect with Me
 <div id="badges">
