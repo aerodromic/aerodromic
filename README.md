@@ -8,13 +8,13 @@
 
 - 🌱 &nbsp; Learning about Software Development Methodologies, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development and photography as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development and photography as hobbies.
 
 
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Java | VBA | PyTorch
+- 💻 &nbsp; Python | Java | VBA | PyTorch | R
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
