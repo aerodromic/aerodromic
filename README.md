@@ -26,7 +26,7 @@
 
 ### 🎯 To Learn
 
-- ☁️ &nbsp; AWS | Docker | Flask
+- ☁️ &nbsp; AWS | Docker | Django
 
 ### 🔗 Connect with Me
 <div id="badges">
