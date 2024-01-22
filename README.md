@@ -1,4 +1,6 @@
-# aerodromic
+# aerodromic /ˈeə.rə.drəʊm.ɪks/
+
+1. An old-fashioned word for an airport. [Adjective] 
 
 ### ❤️‍🔥 About Me
 
