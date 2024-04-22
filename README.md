@@ -10,9 +10,9 @@
 
 - 📈 &nbsp; Trading Crypto, Equities and Commodities.
 
-- 🌱 &nbsp; Learning about Software Development Methodologies, Systems Design.
+- 🌱 &nbsp; Learning about Simulations and Statistics.
 
-- ✍️ &nbsp; Pursuing Web Development and photography as hobbies.
+- ✍️ &nbsp; Pursuing Web Development and Photography as hobbies.
 
 
 
