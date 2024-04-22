@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Studying BEng(ISE)(Hons); DA(2nd Maj); CS(Minor).
 
-- 📈 &nbsp; Interested in trading Crypto, Equities and Commodities.
+- 📈 &nbsp; Trading Crypto, Equities and Commodities.
 
 - 🌱 &nbsp; Learning about Software Development Methodologies, Systems Design.
 
